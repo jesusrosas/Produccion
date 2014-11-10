@@ -38,7 +38,7 @@ public class Linea {
     
     public void Muestra(){
         System.out.println("=====================================");
-        System.out.println("Se Monstrarán los datos de: "+nombre);
+        System.out.println("Mostrando datos de: "+nombre);
         //tipo1.Muestra();
         //tipo2.Muestra();
         //tipo3.Muestra();

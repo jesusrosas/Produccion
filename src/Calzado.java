@@ -24,9 +24,9 @@ public class Calzado {
     }
     
     public void Leer() throws IOException{
-        System.out.print(nombre+" Producción? ");
+        System.out.print(nombre+" Cantidad de Producción? ");
         prod=Leer.datoInt();
-        System.out.print(nombre +" Defectos? ");
+        System.out.print(nombre +" Cantidad de Defectos? ");
         fail=Leer.datoInt();  
     }
     
