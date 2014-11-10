@@ -1,14 +1,13 @@
 
 import java.io.IOException;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 /**
  *
  * @author jesusrosas
+ * jesusrosas@gmail.com
+ * www.jesusrosas.com.mx
  */
 public class Produccion {
 
